@@ -1,0 +1,13 @@
+# Target labels
+ math
+# Source files and their labels
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math-complete.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-install.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-mkdir.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-download.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-update.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-patch.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-configure.rule
+/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-build.rule

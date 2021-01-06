@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/CMakeFiles/math-complete.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-install.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-mkdir.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-download.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-update.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-patch.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-configure.rule"
+		},
+		{
+			"file" : "/Users/liaoshufeng/CLionProjects/demo/cmake-build-debug/math-prefix/src/math-stamp/math-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"math"
+		],
+		"name" : "math"
+	}
+}
